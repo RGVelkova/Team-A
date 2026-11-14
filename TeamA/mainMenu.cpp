@@ -1,10 +1,13 @@
 #include <iostream>
 #include <string>
+#include <conio.h>
 #include "mainMenu.h"
+#include "aboutUsMenu.h"
 using namespace std;
 
 void clearScreen();
 void exitProgram();
+
 
 void mainMenu() {
 	int choice;
@@ -28,7 +31,8 @@ void mainMenu() {
 			cout << "how to menu" << endl;
 			break;
 		case 3:
-			cout << "about us menu" << endl;
+			clearScreen();
+			aboutUs();
 			break;
 		case 4:
 			cout << "Exiting the menu." << endl;
