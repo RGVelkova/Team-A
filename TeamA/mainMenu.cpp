@@ -14,13 +14,23 @@ void mainMenu() {
 	do {
 		clearScreen();
 
-		cout << "Welcome to the Maze quest" << endl;
-		cout << "Please select an option:" << endl;
-		cout << "1. Play!" << endl;
-		cout << "2. How to?" << endl;
-		cout << "3. About us" << endl;
-		cout << "4. Exit" << endl;
-		
+		cout << "=======================================" << endl;
+		cout << endl;
+		cout << "       Welcome to the Maze game!" << endl;
+		cout << endl;
+		cout << "=======================================" << endl;
+		cout << endl;
+		cout << "     +--------------------------+\n";
+		cout << "     |       MAIN MENU          |\n";
+		cout << "     +--------------------------+\n";
+		cout << "     |                          |\n";
+		cout << "     |   [1]  Play Game         |\n";
+		cout << "     |   [2]  How To Play       |\n";
+		cout << "     |   [3]  About Us          |\n";
+		cout << "     |   [4]  Exit Game         |\n";
+		cout << "     |                          |\n";
+		cout << "     +--------------------------+\n";
+		cout << endl;
 		cout << "Enter your choice: ";
 		cin >> choice;
 		switch (choice) {
