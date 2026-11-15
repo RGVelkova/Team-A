@@ -3,10 +3,22 @@
 #include <conio.h>
 #include "mainMenu.h"
 #include "aboutUsMenu.h"
+#include "firstGameMenu.h"	
 using namespace std;
 
 void clearScreen();
 void exitProgram();
+
+// Read a single key and return its numeric value (0-9), -2 for Enter, or -1 for other keys
+int readNumericChoice() {
+	char ch = _getch();
+	cout << ch << endl;
+	if (ch == '\r' || ch == '\n')
+		return -2;
+	if (ch >= '0' && ch <= '9')
+		return ch - '0';
+	return -1;
+}
 
 
 void mainMenu() {
@@ -31,12 +43,14 @@ void mainMenu() {
 		cout << "     |                          |\n";
 		cout << "     +--------------------------+\n";
 		cout << endl;
+
 		cout << "Enter your choice: ";
-		cin >> choice;
+		choice = readNumericChoice();
+
 		switch (choice) {
 		case 1:
-			cout << "maze menu" << endl;
-			break;
+			clearScreen();
+			firstGameMenu();
 		case 2:
 			cout << "how to menu" << endl;
 			break;

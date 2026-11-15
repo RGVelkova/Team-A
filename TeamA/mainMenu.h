@@ -2,7 +2,7 @@
 #include <iostream>
 
 void mainMenu();
-void empty();
+
 void clearScreen();
 void exitProgram();
-void aboutUs();
+int readNumericChoice();

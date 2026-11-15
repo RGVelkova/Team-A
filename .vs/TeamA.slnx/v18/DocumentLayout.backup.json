@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\Team-A\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\Acer\\source\\repos\\Team-A\\TeamA\\aboutUsMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\firtstGameMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\firtstGameMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\aboutUsMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\aboutUsMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\Acer\\source\\repos\\Team-A\\TeamA\\aboutUsMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\aboutUsMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\Acer\\source\\repos\\Team-A\\TeamA\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\Acer\\source\\repos\\Team-A\\TeamA\\mainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\mainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\mainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\Acer\\source\\repos\\Team-A\\TeamA\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\firstGameMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\firstGameMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\aboutUsMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\aboutUsMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,29 +38,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "firstGameMenu.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\firstGameMenu.h",
+              "RelativeDocumentMoniker": "TeamA\\firstGameMenu.h",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\firstGameMenu.h",
+              "RelativeToolTip": "TeamA\\firstGameMenu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-15T22:45:34.022Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "mainMenu.cpp",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Team-A\\TeamA\\mainMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\mainMenu.cpp",
               "RelativeDocumentMoniker": "TeamA\\mainMenu.cpp",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Team-A\\TeamA\\mainMenu.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\mainMenu.cpp",
               "RelativeToolTip": "TeamA\\mainMenu.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBAAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-09T22:26:45.324Z"
+              "WhenOpened": "2026-11-09T22:26:45.324Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "firtstGameMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\firtstGameMenu.cpp",
+              "RelativeDocumentMoniker": "TeamA\\firtstGameMenu.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\firtstGameMenu.cpp",
+              "RelativeToolTip": "TeamA\\firtstGameMenu.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-15T22:29:14.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\main.cpp",
+              "RelativeDocumentMoniker": "TeamA\\main.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\main.cpp",
+              "RelativeToolTip": "TeamA\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-09T22:25:42.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "aboutUsMenu.cpp",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Team-A\\TeamA\\aboutUsMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\aboutUsMenu.cpp",
               "RelativeDocumentMoniker": "TeamA\\aboutUsMenu.cpp",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Team-A\\TeamA\\aboutUsMenu.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\aboutUsMenu.cpp",
               "RelativeToolTip": "TeamA\\aboutUsMenu.cpp",
-              "ViewState": "AgIAACQAAAAAAAAAAAAQwDEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-12T22:21:09.503Z",
               "EditorCaption": ""
@@ -61,37 +109,26 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "mainMenu.h",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Team-A\\TeamA\\mainMenu.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\mainMenu.h",
               "RelativeDocumentMoniker": "TeamA\\mainMenu.h",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Team-A\\TeamA\\mainMenu.h",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\mainMenu.h",
               "RelativeToolTip": "TeamA\\mainMenu.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-11-09T22:42:42.487Z"
+              "WhenOpened": "2026-11-09T22:42:42.487Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "aboutUsMenu.h",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Team-A\\TeamA\\aboutUsMenu.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\aboutUsMenu.h",
               "RelativeDocumentMoniker": "TeamA\\aboutUsMenu.h",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Team-A\\TeamA\\aboutUsMenu.h",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\aboutUsMenu.h",
               "RelativeToolTip": "TeamA\\aboutUsMenu.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-11-14T17:20:58.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Team-A\\TeamA\\main.cpp",
-              "RelativeDocumentMoniker": "TeamA\\main.cpp",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Team-A\\TeamA\\main.cpp",
-              "RelativeToolTip": "TeamA\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-11-09T22:25:42.296Z"
             }
           ]
         }
