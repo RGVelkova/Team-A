@@ -3,6 +3,7 @@
 #include "mainMenu.h"
 #include "aboutUsMenu.h"
 #include "firstGameMenu.h"	
+#include "howToPage.h"
 using namespace std;
 
 void clearScreen();
@@ -51,7 +52,8 @@ void mainMenu() {
 			clearScreen();
 			firstGameMenu();
 		case 2:
-			cout << "how to menu" << endl;
+			clearScreen();
+			showHowToPlay();
 			break;
 		case 3:
 			clearScreen();

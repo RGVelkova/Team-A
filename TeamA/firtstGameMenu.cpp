@@ -22,8 +22,8 @@ void firstGameMenu() {
 		cout << "     +--------------------------+\n";
 		cout << "     |                          |\n";
 		cout << "     |   [1]  Easy  10x10       |\n";
-		cout << "     |   [2]  Medium  25x25     |\n";
-		cout << "     |   [3]  Hard  50x50       |\n";
+		cout << "     |   [2]  Medium  20x20     |\n";
+		cout << "     |   [3]  Hard  25x25       |\n";
 		cout << "     |   [4]  Back to Main Menu |\n";
 		cout << "     |                          |\n";
 		cout << "     +--------------------------+\n";
@@ -45,7 +45,7 @@ void firstGameMenu() {
 			break;
 		case 4:
 			clearScreen();
-			mainMenu();	
+			mainMenu();
 			break;
 		default:
 			cout << "Invalid choice. Please try again." << endl;

@@ -144,6 +144,7 @@
     <ClCompile Include="firtstGameMenu.cpp" />
     <ClCompile Include="generateMaze.cpp" />
     <ClCompile Include="hardMaze.cpp" />
+    <ClCompile Include="howToPage.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mainMenu.cpp" />
     <ClCompile Include="mediumMaze.cpp" />
@@ -154,6 +155,7 @@
     <ClInclude Include="firstGameMenu.h" />
     <ClInclude Include="generateMaze.h" />
     <ClInclude Include="hardMaze.h" />
+    <ClInclude Include="howToPage.h" />
     <ClInclude Include="mainMenu.h" />
     <ClInclude Include="mediumMaze.h" />
   </ItemGroup>

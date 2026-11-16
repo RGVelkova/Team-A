@@ -9,4 +9,5 @@ extern int mazeSize;
 void generateMaze(int difficulty);   // 1 = easy, 2 = medium, 3 = hard
 void drawMaze();
 void playMaze(int difficulty);     // shared game loop
+void showWinScreen(int difficulty, int moves);
 	
