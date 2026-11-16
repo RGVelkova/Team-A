@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\mainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\mainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\firstGameMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\firstGameMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\easyMaze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\easyMaze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\firtstGameMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\firtstGameMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\aboutUsMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\aboutUsMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\easyMaze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\easyMaze.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\aboutUsMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\aboutUsMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\mainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\mainMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\firstGameMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|solutionrelative:TeamA\\firstGameMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD05F4C1-2CBA-4917-80FE-B7C0E3F2568B}|TeamA\\TeamA.vcxproj|C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\aboutUsMenu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -38,11 +46,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "easyMaze.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\easyMaze.h",
+              "RelativeDocumentMoniker": "TeamA\\easyMaze.h",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\easyMaze.h",
+              "RelativeToolTip": "TeamA\\easyMaze.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-16T00:02:05.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "easyMaze.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\easyMaze.cpp",
+              "RelativeDocumentMoniker": "TeamA\\easyMaze.cpp",
+              "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\easyMaze.cpp",
+              "RelativeToolTip": "TeamA\\easyMaze.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-15T23:31:18.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "firstGameMenu.h",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\firstGameMenu.h",
               "RelativeDocumentMoniker": "TeamA\\firstGameMenu.h",
@@ -50,38 +84,37 @@
               "RelativeToolTip": "TeamA\\firstGameMenu.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-11-15T22:45:34.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-15T22:45:34.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "mainMenu.cpp",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\mainMenu.cpp",
               "RelativeDocumentMoniker": "TeamA\\mainMenu.cpp",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\mainMenu.cpp",
               "RelativeToolTip": "TeamA\\mainMenu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-09T22:26:45.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "firtstGameMenu.cpp",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\firtstGameMenu.cpp",
               "RelativeDocumentMoniker": "TeamA\\firtstGameMenu.cpp",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\firtstGameMenu.cpp",
               "RelativeToolTip": "TeamA\\firtstGameMenu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-15T22:29:14.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\main.cpp",
               "RelativeDocumentMoniker": "TeamA\\main.cpp",
@@ -94,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "aboutUsMenu.cpp",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\aboutUsMenu.cpp",
               "RelativeDocumentMoniker": "TeamA\\aboutUsMenu.cpp",
@@ -107,20 +140,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "mainMenu.h",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\mainMenu.h",
               "RelativeDocumentMoniker": "TeamA\\mainMenu.h",
               "ToolTip": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\mainMenu.h",
               "RelativeToolTip": "TeamA\\mainMenu.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-11-09T22:42:42.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "aboutUsMenu.h",
               "DocumentMoniker": "C:\\Users\\HP\\Documents\\GitHub\\Team-A\\TeamA\\aboutUsMenu.h",
               "RelativeDocumentMoniker": "TeamA\\aboutUsMenu.h",

@@ -1,8 +1,7 @@
 #include <iostream>
-#include <string>
-#include <conio.h>
 #include "mainMenu.h"
 #include "firstGameMenu.h"
+#include "easyMaze.h"
 using namespace std;
 
 void firstGameMenu() {
@@ -31,7 +30,8 @@ void firstGameMenu() {
 		choice = readNumericChoice();	
 		switch (choice) {
 		case 1:
-			cout << "easy" << endl;
+			clearScreen();
+			easyMaze();
 			break;
 		case 2:
 			cout << "medium" << endl;

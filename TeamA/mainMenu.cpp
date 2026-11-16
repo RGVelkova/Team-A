@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 #include <conio.h>
 #include "mainMenu.h"
 #include "aboutUsMenu.h"

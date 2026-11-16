@@ -140,12 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="aboutUsMenu.cpp" />
+    <ClCompile Include="easyMaze.cpp" />
     <ClCompile Include="firtstGameMenu.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mainMenu.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="aboutUsMenu.h" />
+    <ClInclude Include="easyMaze.h" />
     <ClInclude Include="firstGameMenu.h" />
     <ClInclude Include="mainMenu.h" />
   </ItemGroup>
