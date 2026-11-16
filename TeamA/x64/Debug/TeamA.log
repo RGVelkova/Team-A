@@ -1,3 +1,8 @@
 ﻿  easyMaze.cpp
-C:\Users\HP\Documents\GitHub\Team-A\TeamA\easyMaze.cpp(14,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  firtstGameMenu.cpp
+  generateMaze.cpp
+C:\Users\HP\Documents\GitHub\Team-A\TeamA\generateMaze.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hardMaze.cpp
+  mediumMaze.cpp
+  Generating Code...
   TeamA.vcxproj -> C:\Users\HP\Documents\GitHub\Team-A\x64\Debug\TeamA.exe

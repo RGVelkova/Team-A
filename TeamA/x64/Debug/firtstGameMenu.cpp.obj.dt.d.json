@@ -130,7 +130,9 @@
             "c:\\program files\\microsoft visual studio\\18\\community\\vc\\tools\\msvc\\14.51.36231\\include\\ostream",
             "c:\\users\\hp\\documents\\github\\team-a\\teama\\mainmenu.h",
             "c:\\users\\hp\\documents\\github\\team-a\\teama\\firstgamemenu.h",
-            "c:\\users\\hp\\documents\\github\\team-a\\teama\\easymaze.h"
+            "c:\\users\\hp\\documents\\github\\team-a\\teama\\easymaze.h",
+            "c:\\users\\hp\\documents\\github\\team-a\\teama\\mediummaze.h",
+            "c:\\users\\hp\\documents\\github\\team-a\\teama\\hardmaze.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -142,14 +142,20 @@
     <ClCompile Include="aboutUsMenu.cpp" />
     <ClCompile Include="easyMaze.cpp" />
     <ClCompile Include="firtstGameMenu.cpp" />
+    <ClCompile Include="generateMaze.cpp" />
+    <ClCompile Include="hardMaze.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mainMenu.cpp" />
+    <ClCompile Include="mediumMaze.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="aboutUsMenu.h" />
     <ClInclude Include="easyMaze.h" />
     <ClInclude Include="firstGameMenu.h" />
+    <ClInclude Include="generateMaze.h" />
+    <ClInclude Include="hardMaze.h" />
     <ClInclude Include="mainMenu.h" />
+    <ClInclude Include="mediumMaze.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

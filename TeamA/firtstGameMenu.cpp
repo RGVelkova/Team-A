@@ -2,6 +2,8 @@
 #include "mainMenu.h"
 #include "firstGameMenu.h"
 #include "easyMaze.h"
+#include "mediumMaze.h"
+#include "hardMaze.h"
 using namespace std;
 
 void firstGameMenu() {
@@ -34,10 +36,12 @@ void firstGameMenu() {
 			easyMaze();
 			break;
 		case 2:
-			cout << "medium" << endl;
+			clearScreen();
+			mediumMaze();
 			break;
 		case 3:
-			cout << "hard" << endl;
+			clearScreen();
+			hardMaze();
 			break;
 		case 4:
 			clearScreen();

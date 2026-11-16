@@ -30,6 +30,15 @@
     <ClCompile Include="easyMaze.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="mediumMaze.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="generateMaze.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hardMaze.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mainMenu.h">
@@ -42,6 +51,15 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="easyMaze.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mediumMaze.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="generateMaze.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="hardMaze.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
