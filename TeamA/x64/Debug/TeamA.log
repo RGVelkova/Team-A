@@ -1,8 +1,5 @@
-﻿  easyMaze.cpp
-  firtstGameMenu.cpp
-  generateMaze.cpp
-C:\Users\HP\Documents\GitHub\Team-A\TeamA\generateMaze.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  hardMaze.cpp
-  mediumMaze.cpp
-  Generating Code...
-  TeamA.vcxproj -> C:\Users\HP\Documents\GitHub\Team-A\x64\Debug\TeamA.exe
+﻿  generateMaze.cpp
+C:\Users\Acer\source\repos\Team-A\TeamA\generateMaze.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TeamA.vcxproj -> C:\Users\Acer\source\repos\Team-A\x64\Debug\TeamA.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

@@ -29,25 +29,37 @@ void showHowToPlay() {
 
     clearScreen();
 
-    cout << endl;
-    cout << "  ===============================" << endl;
-    cout << "            HOW TO PLAY          " << endl;
-    cout << "  ===============================" << endl;
-    cout << endl;
-    cout << "  GOAL" << endl;
+    cout << "+=======================================+\n";
+    cout << "                                         \n";
+    cout << "               HOW TO PLAY               \n";
+    cout << "                                         \n";
+    cout << "+=======================================+\n";
+    
+    cout << "\n";
+    cout << "  +--------------------------------+\n";
+    cout << "  |               GOAL             |\n";
+    cout << "  +--------------------------------+\n";
+    cout << "\n";
+
     cout << "    Get from the start (R) to the exit (E)." << endl;
     cout << endl;
-    cout << "  CONTROLS" << endl;
+    
+    cout << "\n";
+    cout << "  +--------------------------------+\n";
+    cout << "  |             CONTROLS           |\n";
+    cout << "  +--------------------------------+\n";
+    cout << "\n";
+
     cout << "    Arrow keys - move up, down, left and right" << endl;
     cout << endl;
-    cout << "  THE MAZE                                     EXAMPLE" << endl;
+    cout << "  -THE MAZE-                                 -EXAMPLE-" << endl;
 
     for (int i = 0; i < 7; i++) {
         cout << "    " << left << setw(45) << legend[i] << sample[i] << endl;
     }
 
     cout << endl;
-    cout << "  DIFFICULTIES" << endl;
+    cout << "  -DIFFICULTIES-" << endl;
     cout << "    Easy   - small maze, few walls" << endl;
     cout << "    Medium - bigger maze, more walls" << endl;
     cout << "    Hard   - largest maze, most walls" << endl;

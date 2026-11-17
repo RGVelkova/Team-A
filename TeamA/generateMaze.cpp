@@ -59,9 +59,13 @@ void showWinScreen(int difficulty, int moves) {
 
     clearScreen();
     cout << endl;
-    cout << "  ===============================" << endl;
-    cout << "       YOU ESCAPED THE MAZE!     " << endl;
-    cout << "  ===============================" << endl;
+    
+    cout << "=======================================\n";
+    cout << "                                         \n";
+    cout << "          YOU ESCAPED THE MAZE!          \n";
+    cout << "                                         \n";
+    cout << "=======================================\n";
+    
     cout << endl;
     cout << "  Difficulty: " << names[difficulty - 1] << endl;
     cout << "  Moves:      " << moves << endl;
